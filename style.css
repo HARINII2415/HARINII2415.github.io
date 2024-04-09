@@ -166,10 +166,10 @@ body {
 .img {
 	
     display: inline-block;
-    left: 55%;
-    bottom:5;
-    margin-right: 5%;
-    padding: 0;
+    left: 65%;
+    bottom:20;
+    margin-right: 5;
+    padding: 20px;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;

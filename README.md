@@ -1,2 +1,2 @@
 <img  alt="harini" width="100%" src="./goo.gif">
-<h1> This is aspiring portfolio </h1>
+<p align="center"  This is my aspiring portfolio </p>

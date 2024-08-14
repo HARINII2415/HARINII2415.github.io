@@ -12,7 +12,7 @@
 
 body {
     color: white;
-    background:#2b2e3b;
+    background: black;
 }
 
 ::-webkit-scrollbar{
@@ -93,7 +93,7 @@ body {
     width: 100%;
     justify-content: space-between;
     min-height: 95vh;
-    background-color: #2b2e3b;
+    background-color: black;
     color: white;
     background-size: cover;
     background-position: center;
@@ -234,7 +234,7 @@ body {
 }
 
 .custom-shape-divider-top-1720508545 .shape-fill {
-    fill: #2B2E3B;
+    fill: black;
 }
 .about {
     background-color: hsl(228, 15%, 15%);
@@ -326,7 +326,7 @@ body {
 }
 
 .custom-shape-divider-bottom-1720509106 .shape-fill {
-    fill: #2b2e3b;
+    fill: black;
 }
 
 /*========================Timeline====================*/

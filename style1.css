@@ -442,7 +442,7 @@ body {
     left: 50%;
     margin-left: -3px;
     z-index: -1;
-    background-color: #fff;
+    background-color: black;
     border-radius: 5px;
     animation: moveline 3s linear forwards;
 }

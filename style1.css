@@ -343,7 +343,7 @@ body {
     letter-spacing: 5px;
 }
 .acc-sec h1 span{
-    color: #0ef;
+    color: black;
 }
 .exp-sec{
     padding-top: 5%;
@@ -353,7 +353,7 @@ body {
     letter-spacing: 5px;
 }
 .exp-sec h1 span{
-    color: #0ef;
+    color: black;
 }
 .timeline{
     position: relative;

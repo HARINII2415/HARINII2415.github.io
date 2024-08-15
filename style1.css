@@ -1,4 +1,3 @@
-
 @font-face {
     font-family: 'Agustina';
     src: url('./Agustina.woff') format('woff');
@@ -13,7 +12,7 @@
 
 body {
     color: white;
-    background: black;
+    background:#2b2e3b;
 }
 
 ::-webkit-scrollbar{
@@ -94,7 +93,7 @@ body {
     width: 100%;
     justify-content: space-between;
     min-height: 95vh;
-    background-color: black;
+    background-color: #2b2e3b;
     color: white;
     background-size: cover;
     background-position: center;
@@ -235,7 +234,7 @@ body {
 }
 
 .custom-shape-divider-top-1720508545 .shape-fill {
-    fill: black;
+    fill: #2B2E3B;
 }
 .about {
     background-color: hsl(228, 15%, 15%);
@@ -327,7 +326,7 @@ body {
 }
 
 .custom-shape-divider-bottom-1720509106 .shape-fill {
-    fill: black;
+    fill: #2b2e3b;
 }
 
 /*========================Timeline====================*/

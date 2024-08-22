@@ -63,6 +63,7 @@ body {
 .navbar {
     display: flex;
     align-items: center;
+    color:black;
 }
 
 .navbar a {

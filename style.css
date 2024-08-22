@@ -515,7 +515,7 @@ body {
 /*projects*/
 #Projects{
     background-color: #000;
-	align-content:center;
+	
 }
 .main-text {
     padding-top: 50px;
@@ -1074,7 +1074,7 @@ body {
         padding-top: 20px;
         margin-top: 10px;
         padding-bottom: 50px;
-		align-items:center;
+		
     }
     .main-text h2 {
         font-size: 50px;

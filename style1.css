@@ -63,7 +63,7 @@ body {
 .navbar {
     display: flex;
     align-items: center;
-    background-color: white;
+    background:hsl(228, 15%, 20%);
 }
 
 .navbar a {
